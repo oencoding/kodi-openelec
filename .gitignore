@@ -1,0 +1,10 @@
+# Logs #
+########
+*.log
+
+# Subtitles #
+#############
+*.srt
+*.sub
+*.he
+*.ssa
