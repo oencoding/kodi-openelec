@@ -1,0 +1,37 @@
+[
+  {
+    "url": "plugin://plugin.video.israelive/?url=3137&mode=1&ignorefilmonguide=1", 
+    "group": "הונגריה", 
+    "image": "http://static.filmon.com/couch/channels/3137/extra_big_logo.png", 
+    "type": "video", 
+    "name": "IranyTV"
+  }, 
+  {
+    "url": "http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8", 
+    "group": "הונגריה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Duna World"
+  }, 
+  {
+    "url": "http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8", 
+    "group": "הונגריה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Duna"
+  }, 
+  {
+    "url": "http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8", 
+    "group": "הונגריה", 
+    "image": "", 
+    "type": "video", 
+    "name": "M1"
+  }, 
+  {
+    "url": "http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8", 
+    "group": "הונגריה", 
+    "image": "", 
+    "type": "video", 
+    "name": "M2"
+  }
+]

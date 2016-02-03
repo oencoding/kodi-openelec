@@ -1,0 +1,14 @@
+{
+  "http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/sitelist?key=4eeb196d-a473-4634-a9da-397974138bf5": {
+    "resource": "C:\\Users\\UDi\\AppData\\Roaming\\Kodi\\userdata\\addon_data\\weather.metoffice\\cache\\tmpjvfchj", 
+    "expiry": "2015-03-07T19:12:30Z"
+  }, 
+  "http://www.telize.com/geoip/": {
+    "resource": "C:\\Users\\UDi\\AppData\\Roaming\\Kodi\\userdata\\addon_data\\weather.metoffice\\cache\\tmpky6mi1", 
+    "expiry": "2015-02-28T20:12:12Z"
+  }, 
+  "http://datapoint.metoffice.gov.uk/public/data/val/wxobs/all/json/sitelist?key=4eeb196d-a473-4634-a9da-397974138bf5": {
+    "resource": "C:\\Users\\UDi\\AppData\\Roaming\\Kodi\\userdata\\addon_data\\weather.metoffice\\cache\\tmplvc3cp", 
+    "expiry": "2015-03-07T19:12:11Z"
+  }
+}

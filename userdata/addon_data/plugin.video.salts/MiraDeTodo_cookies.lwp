@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d99f25e316fe1161216efd9cbb00bfdce1451502428; path="/"; domain=".miradetodo.com.ar"; path_spec; domain_dot; expires="2016-12-29 19:07:08Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=bc83fed03b12a394d3805630db2c9080; path="/"; domain="miradetodo.com.ar"; path_spec; expires="2016-01-30 13:57:26Z"; version=0
+Set-Cookie3: pageredir="http%3A%2F%2Fmiradetodo.com.ar%2Fsearch_result.php%3Fsearch%3D%26query%3DOcean%2527s%2BTwelve"; path="/"; domain="miradetodo.com.ar"; path_spec; expires="2016-01-29 22:45:56Z"; version=0

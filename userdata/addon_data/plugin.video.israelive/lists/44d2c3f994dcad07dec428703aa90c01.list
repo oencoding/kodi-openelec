@@ -1,0 +1,233 @@
+[
+  {
+    "url": "rtmp://web.iptv-planet.com:1936/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400", 
+    "group": "סרטים", 
+    "image": "http://www.lyngsat-logo.com/hires/ff/fox_movies_africa.png", 
+    "type": "video", 
+    "name": "Fox Movies"
+  }, 
+  {
+    "url": "rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400", 
+    "group": "סרטים", 
+    "image": "http://static.timefor.tv/imgs/epg/logos/mbcmax_big.png", 
+    "type": "video", 
+    "name": "MBC MAX"
+  }, 
+  {
+    "url": "rtmp://84.20.77.50/live/livestream1", 
+    "group": "סרטים", 
+    "image": "http://www.giniko.com/logos/190x110/148.jpg", 
+    "type": "video", 
+    "name": "Jug TV (English Spoken Films)"
+  }, 
+  {
+    "url": "http://202.75.23.35/live/ch40/01.m3u8", 
+    "group": "סרטים", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/0/0c/Mgm_channel_nl.png", 
+    "type": "video", 
+    "name": "MGM"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=368&mode=1&ignorefilmonguide=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/368/extra_big_logo.png", 
+    "type": "video", 
+    "name": "MBC2"
+  }, 
+  {
+    "url": "rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/368/extra_big_logo.png", 
+    "type": "video", 
+    "name": "MBC2"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=908&mode=1&ignorefilmonguide=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/908/extra_big_logo.png", 
+    "type": "video", 
+    "name": "iFilm"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=13&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/13/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Film4"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3083&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/3083/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Campy Channel"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=384&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/384/extra_big_logo.png", 
+    "type": "video", 
+    "name": "The Western Channel"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2951&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/2951/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Banned Westerns"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2699&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/2699/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Chillings"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3095&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/3095/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Major Crimes"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2948&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/2948/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloodzillathon"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3071&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/3071/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Zombie Underworld"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=514&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/514/extra_big_logo.png", 
+    "type": "video", 
+    "name": "SciScape"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3122&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/3122/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Alien (invasion) channel"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1684&mode=1&filmonmethod=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/1684/extra_big_logo.png", 
+    "type": "video", 
+    "name": "FilmOn Horror Network"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1967&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/1967/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Kung Fu Classics"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1693&mode=1", 
+    "group": "סרטים", 
+    "image": "http://static.filmon.com/couch/channels/1693/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Double Feature TV"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://035info.rs/wp-content/uploads/2013/01/pink-premium1.jpg", 
+    "type": "video", 
+    "name": "Pink Premium"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://www.totaltv.gr/totaltv/picture/tv_logo/pink_action.jpg", 
+    "type": "video", 
+    "name": "Pink Action"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Pink Action 2"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Pink Action 3"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Pink Movies"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Pink Movies 2"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://www.radiowolf.net/userfiles/media/thumbnail/220/tn-3359494355.png", 
+    "type": "video", 
+    "name": "Pink Movies 3"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/pink_family.jpg", 
+    "type": "video", 
+    "name": "Pink Family"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://www.tvportal.rs/tvportal/kanali/pinkkids.jpg", 
+    "type": "video", 
+    "name": "Pink Kids"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://www.clipdonator.com/files/thumbs/1376236805ecb26-1.jpg", 
+    "type": "video", 
+    "name": "Pink Horror"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Pink Comedy"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "http://epg.serbianforum.org/logo_znaci/Pink%20Western.png", 
+    "type": "video", 
+    "name": "Pink Western"
+  }, 
+  {
+    "url": "http://on108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/playlist.m3u8", 
+    "group": "סרטים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Pink Soap"
+  }
+]

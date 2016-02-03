@@ -1,0 +1,79 @@
+[
+  {
+    "url": "plugin://plugin.video.israelive/?url=2957&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/2957/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bonanza"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2960&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/2960/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Ozzie & Harriet"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2963&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/2963/extra_big_logo.png", 
+    "type": "video", 
+    "name": "One Step Beyond"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2966&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/2966/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Charlie Chaplin"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2969&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/2969/extra_big_logo.png", 
+    "type": "video", 
+    "name": "The Beverly Hillbillies"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2972&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/2972/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Robin Hood"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3011&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/3011/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Timeless television"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3017&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/3017/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Spud's crime and punishment channel"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3020&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/3020/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Spud's funny channel"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3098&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/3098/extra_big_logo.png", 
+    "type": "video", 
+    "name": "The Dick Van Dyke Show"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3101&mode=1", 
+    "group": "Classic TV", 
+    "image": "http://static.filmon.com/couch/channels/3101/extra_big_logo.png", 
+    "type": "video", 
+    "name": "The Lucy Show"
+  }
+]

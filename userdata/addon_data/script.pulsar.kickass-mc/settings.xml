@@ -1,0 +1,27 @@
+<settings>
+    <setting id="TV_key_allowed" value="" />
+    <setting id="TV_key_denied" value="" />
+    <setting id="TV_max_size" value="10.000000" />
+    <setting id="TV_min_size" value="0.000000" />
+    <setting id="TV_qua1" value="Filter Off" />
+    <setting id="TV_qua2" value="Filter Off" />
+    <setting id="TV_qua3" value="Accept File" />
+    <setting id="TV_qua4" value="Accept File" />
+    <setting id="extra" value="" />
+    <setting id="language" value="en" />
+    <setting id="max_magnets" value="10" />
+    <setting id="movie_key_allowed" value="" />
+    <setting id="movie_key_denied" value="" />
+    <setting id="movie_max_size" value="10.000000" />
+    <setting id="movie_min_size" value="0.000000" />
+    <setting id="movie_qua1" value="Filter Off" />
+    <setting id="movie_qua2" value="Filter Off" />
+    <setting id="movie_qua3" value="Filter Off" />
+    <setting id="movie_qua4" value="Accept File" />
+    <setting id="movie_qua5" value="Block File" />
+    <setting id="movie_qua6" value="Block File" />
+    <setting id="movie_qua7" value="Block File" />
+    <setting id="movie_qua8" value="Block File" />
+    <setting id="time_noti" value="1500" />
+    <setting id="url_address" value="http://kat.cr" />
+</settings>

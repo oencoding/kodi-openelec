@@ -1,0 +1,7 @@
+Sopcast [sop://broker.sopcast.com:3912/149256]|sop://broker.sopcast.com:3912/149256|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange][SopCast] [/COLOR] N/A[/B] (2000 Kbs)|sop://broker.sopcast.com:3912/138899|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/core/parsers/livefootballws/icon.png
+Sopcast [sop://broker.sopcast.com:3912/253471]|sop://broker.sopcast.com:3912/253471|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Sopcast [sop://broker.sopcast.com:3912/149256]|sop://broker.sopcast.com:3912/149256|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Sopcast [sop://broker.sopcast.com:3912/148084]|sop://broker.sopcast.com:3912/148084|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Sopcast [sop://broker.sopcast.com:3912/149256]|sop://broker.sopcast.com:3912/149256|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange][SopCast] [/COLOR] N/A[/B] (2000 Kbs)|sop://broker.sopcast.com:3912/138899|2|/storage/.kodi/addons/plugin.video.p2p-streams/resources/core/parsers/livefootballws/icon.png

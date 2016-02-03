@@ -1,0 +1,268 @@
+[
+  {
+    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "http://dippiu.it/sky_tg24_nuova_grafica.jpg", 
+    "type": "video", 
+    "name": "Sky TG24"
+  }, 
+  {
+    "url": "rtmp://cp49989.live.edgefcs.net/live/ swfUrl=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf playpath=streamRM1@2564 live=true", 
+    "group": "איטליה", 
+    "image": "http://dippiu.it/sky_tg24_nuova_grafica.jpg", 
+    "type": "video", 
+    "name": "Sky TG24"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=379&mode=1", 
+    "group": "איטליה", 
+    "image": "http://static.filmon.com/couch/channels/379/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Camera dei Deputati"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=442&mode=1&ignorefilmonguide=1", 
+    "group": "איטליה", 
+    "image": "http://static.filmon.com/couch/channels/442/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Canale Italia 84"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=445&mode=1", 
+    "group": "איטליה", 
+    "image": "http://static.filmon.com/couch/channels/445/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Italia Channel"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=451&mode=1&ignorefilmonguide=1", 
+    "group": "איטליה", 
+    "image": "http://static.filmon.com/couch/channels/451/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Studio Europa"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=454&mode=1&ignorefilmonguide=1", 
+    "group": "איטליה", 
+    "image": "http://static.filmon.com/couch/channels/454/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Justice TV"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2795&mode=1&ignorefilmonguide=1", 
+    "group": "איטליה", 
+    "image": "http://static.filmon.com/couch/channels/2795/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Pianeta TV"
+  }, 
+  {
+    "url": "mms://62.101.89.122/Sat2000", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Tv 2000 Italia"
+  }, 
+  {
+    "url": "http://stream8.rai.it/live/smil:rainews.smil/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "http://xbmc.org/wp-content/uploads/2012/07/zappy-android-scaled.png", 
+    "type": "video", 
+    "name": "Rai news"
+  }, 
+  {
+    "url": "mmsh://212.162.68.162/prodtvr1", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "RAI 1"
+  }, 
+  {
+    "url": "mmsh://212.162.68.162/prodtvr2", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "RAI 2"
+  }, 
+  {
+    "url": "mmsh://212.162.68.102/Rai_Premium", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "RAI  Premium"
+  }, 
+  {
+    "url": "mms://212.162.68.163/Rai_gulp", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rai Gulp italy"
+  }, 
+  {
+    "url": "mms://212.162.68.163/Rai_yoyo", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "rai yoyo itali"
+  }, 
+  {
+    "url": "mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rai Scuola"
+  }, 
+  {
+    "url": "mmsh://212.162.68.163/rai_storia?MSWMExt.asf", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rai Storia"
+  }, 
+  {
+    "url": "mmsh://212.162.68.163:80/Rai_yoyo?MSWMExt.asf", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rai YoYo"
+  }, 
+  {
+    "url": "http://212.162.68.163/Rai_Nettuno?auth=daEaadhacdEd0aFb2d8ckaJbJbDd8bmb4bc-bqWzDA-c0-AmyutHn&aifp=V001", 
+    "group": "איטליה", 
+    "image": "http://www.tvinstreaming.org/wp-content/uploads/2011/12/Rai-Nettuno-Sat-Uno-in-streaming.jpg", 
+    "type": "video", 
+    "name": "Rai Nettuno Sat Uno"
+  }, 
+  {
+    "url": "mmsh://mediatv2.topix.it/24Ipertv66", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "IPER TV IT"
+  }, 
+  {
+    "url": "rtmp://la6.stream.internetone.it/streaming/la6.stream", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "La 6"
+  }, 
+  {
+    "url": "http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8", 
+    "group": "איטליה", 
+    "image": "http://en.wikipedia.org/wiki/La7#mediaviewer/File:LA7_logo.png", 
+    "type": "video", 
+    "name": "LA7"
+  }, 
+  {
+    "url": "rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Four Music"
+  }, 
+  {
+    "url": "rtmp://194.116.73.146/quartaretetv/quartareteweb", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Quartarete TV"
+  }, 
+  {
+    "url": "rtmp://91.121.222.160/teleboariotb//teleboario.sdp", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Tele Boario"
+  }, 
+  {
+    "url": "mmsh://mediatv2.topix.it/24RockOne66", 
+    "group": "איטליה", 
+    "image": "http://www.radio1rock.bg/style/logo_radio1rock.png", 
+    "type": "video", 
+    "name": "Rock 1"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/brescialivetv/brescialivetv/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "BRESCIA TV"
+  }, 
+  {
+    "url": "http://wms.iptv.4wardstream.net/canale2iptv/canale2iptv/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "CANALE 2"
+  }, 
+  {
+    "url": "http://vs2.streamcaster.net:1935/tele8_live/tele8/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TELE 8"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/teleducatopc/teleducatopc/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TELEDUCATO"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TELEMONTEVE"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TELEMONTEVE 3"
+  }, 
+  {
+    "url": "http://xtirrenosatx.api.channel.livestream.com/3.0/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TIRRENO SAT"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TSN"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TSN 2"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TVRS"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "VERA TV"
+  }, 
+  {
+    "url": "http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8", 
+    "group": "איטליה", 
+    "image": "", 
+    "type": "video", 
+    "name": "VISUIAL"
+  }
+]

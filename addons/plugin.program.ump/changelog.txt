@@ -1,0 +1,83 @@
+2016-01-31: cloudfare: fix cookie imposition, request domain before sending post data
+2016-01-31: addonxml: update website info http://ump.us.to
+2016-01-31: korenaturk: removed from provider list
+2016-01-31: openload: new url provider, veterok: new url provider, api: randomize user agents each time on each session, koreanturk: removed since i dont wanna deal with it :), animeram: totally new siteü totally new link provider, turkanimetv: too many changes too many updates,
+2016-01-31: ui: push imdb id for script.trakt, ann: localisation, remove useless avigations steps make it leaner, code3-> annid tvdb: code10->zap2it id, code2: tvdbid, primewire: cover up animes as well, unidecode: fix import error, url_google: remove html5 key, ok.ru: remove html5 key, cloudfare: fix new validation js, fix cookie imposing error,
+2016-01-29: cloudfare: recaptcha protection  warnning, api: randomize user agent, ann: animes by themes, settings: override user agent=false
+2016-01-28: imdb: localisation, tvdb:localisation, 720pizle: new match algo, dizigold: new match algo, new site design, dizipub: new match algo, new page design, moviesub: new match algo, pubfilm: new match algo unutlmaz filmler: new match algo, afdah: fix titles, primewire: new match algo, okru: referer update, transparent: lean, api: match_cast function to match movie from casting, get_vidnames is updated
+2016-01-25: kissanime: use get_names, primewire: botcheck notification, pubfilm: new link provider
+2016-01-25: imdb: localnames suport, nowvideo: fix for new design, promptfile: fix for different page design with old cookies,
+2016-01-23: unutulmaz filmer: new video link provider, url_google: use hash only without referer, url_videomega: use iframe.php, api: use addon.getsetting(). much way conveinent :/ stupid me, On multiple parted media sum the filezie on max_meta, ui: player.xplay() instead of play. dont override default method, moviesub: new video link provider
+2016-01-22: api: decrease  validation timeout 20sec., functionize meta lister ui: fix pressing enter too soon causes dialog to close, update progress bar on each 150ms, mirrors are sorted by filesize then resolation now
+2016-01-19: api: a more proper implementation of getsettings
+2016-01-19: addons.xml: add UMP tag in front of name
+2016-01-19: meta: backwards compataiblity for & char in settings.xml
+2016-01-19: backwards: li.setart function exception handled, api: getsetting function implemeted to read setting node even without plugin handle, disable forced isFolder True which causes crashes in frodo, gettext function backwards compatible fix, tvdb: fix supported languages, settings: change & char to +
+2016-01-19: unidecode: removed dependency from official repo, added as third party
+2016-01-19: dateutil: removed dependency from official repo, made third party, settings: updated site information, addon.xml: removed opensubtitles/dateutil dependency, updated site information
+2016-01-19: addon: move data server to new httpp server
+2016-01-13: addon: list content types when not provided, primewire: add new url providers
+2016-01-13: vidlockers: wip, too slow server causes player to timout, novamov: wip
+2016-01-13: afdah: added new url providers
+2016-01-13: promptfile: new url provider, vid.ag: new url provider, vidto: new url provider, vidzi: new url provider
+2016-01-13: api: override default timeout from settings. This is useful when cuncerrency is too high and cause for http timeouts, api: allow url provider to override referer, filenuke: fix new urls sharesix: fix new urls videomega: fix hls streaming thevideo.me: new url provider vidup: new url provider unpack: third party code to unpack packed js code settings.xml: set default http timeout to 30s
+2015-12-21: kissanime: update to ssl url
+2015-12-21: novamov: remove provider since it is serving HLS
+2015-12-21: moshare: updated to wholecloud new server okru: dont load disallowed mirrors plusplayer: fix new player address 720pizle: fix some regexes, and fix referer
+2015-11-24: require opensubtitles
+2015-11-23: add description
+2015-11-23: new icon
+2015-11-19: 0.0.32 Version Release
+2015-11-19: redmp3: fix album/artist referers, prevent multiple part injection
+2015-11-19: animeram: new link provider, animejolt:activated again, yourupload: new url provider, auengine:new url provider, m4upload: new url provider, videonest: new url provider
+2015-11-19: Merge pull request #24 from DxCx/master
+2015-11-19: Added couple of sources support for animebam
+2015-11-17: Added support for Animeram video link provider
+2015-11-15: 0.0.31 Version Release
+2015-11-15: dizigold: fixed lots of stuff dizimag: handle all mirrors with v2 kissanime: new domain and new match algo with new site sezonluk dizi: match proper with alternating names animejolt: disabled since video server is unstable mangahere: new image link/url provider. mangafox now only supports unlicensed mangas. mangahere will take the workload
+2015-11-15: redmp3: fixed url and site changes mangafox: fixed pagination tvdb: fixed localisation issues @issue #22 api: prevent malfunctioning provider to cause ump to malfunction too cloudfare: handle redirections before answering question ui: more contrast colors on selection UI
+2015-10-03: comments
+2015-10-03: sezonluk dizi: fixed ok.ru videos, site changed
+2015-10-03: dizipub: fixed regex, site is updated
+2015-10-03: dizimag: web site is updated, updated video match algo
+2015-10-03: dizigold: stop looping iy all links are dead
+2015-09-22: sezonlukdizi:site updated
+2015-09-22: dizilab: fix regex
+2015-09-20: 0.0.27 Version Release
+2015-09-20: kissanime:added to index
+2015-09-20: kissanime: online again no change on site
+2015-09-20: addon: bookmark
+2015-09-13: lastfm: fix gettopalbums. api changed, baka: fix versioned releases, fix sequel releases, fix log spam on missing cover, mangafox: fix matching bug
+2015-09-13: settings: about menu
+2015-09-12: api:auto mirror selection
+2015-09-08: quality:validation methods
+2015-09-08: ump:settings.xml, api:proxysupport
+2015-09-06: fix audio quality function
+2015-09-06: kissanime: disabled site is down, acercloud: new url provider
+2015-09-06: api: provider logos added, api:referer is not carried out until the player, ann:season relative episode numbering, api: keep header on head reuqests, ui: fix missing progress report animejolt: new link provider, animejoy: newlink provider
+2015-08-23: koreanturk: new link provider, dailymotion: new url provider
+2015-08-22: fix windows may cause cookie manager cant save to file on windows.
+2015-08-22: dizigold: new link provider
+2015-08-22: api: load icons from remote server, no need to distribute pngs
+2015-08-22: imdb: fix typos urlproviders: dont use json for arg parsing cloudfare: moved to api ui: new progres bars for overall operation execsjs: removed not cross platform new link providers: dizilab, dizimag, sezonlukdizi
+2015-08-16: new arts for new providers
+2015-08-16: ump:task manager speed up, dizipub:fix regex for vk, dialogselect:fix zorder, videomega: new url provider, ishared: new url provider, afdah: new link provider
+2015-08-15: lastfm: cleanup, redmp3: limit iteration, imdb: provide alternative names, top listings for series and documentaries, primewire: matchin algo rewritten. can provide series too now, api: new function: get_vidnames
+2015-08-15: imdb: preemptive search
+2015-08-15: api: web_serach function tvdb: preemptive search
+2015-08-14: tvdb: refresh seasons/episodes on each runtime, use static urls
+2015-08-14: ann:update epis each runtime
+2015-08-12: imdb can provide series now, prevent future dead locks on tm
+2015-08-11: version bump
+2015-08-11: 0.0.17 Version Release
+2015-08-11: new selector ui, clean task manager
+2015-08-09: even though animes dont have season info force it so trakt will scrobble
+2015-08-09: improve match algo on 720pizle
+2015-08-08: new link provider: gvcenter
+2015-08-08: fixed regex on 720p izle causes sequel movies to interfere
+2015-08-08: new url provider: filenuke
+2015-08-07: disable notifications, dont spam logfile
+2015-08-07: fixed wrong repo def, updated primewire regex, updated sharesix due to new page designs
+2015-08-07: Update video_link_kissanime.py
+2015-08-06: Update README.md
+2015-08-05:        *api: cookie states saved        *api: name matching algo improved        *api: improved title comaprison for eastern langs        *ann: episode handling improved        *ann: pagination implemented. faster browsing        *ann: fixed anime/serie definitions        *ann: fixed issues with json keys to be parsed as strings  *kissanime: new link provider for animes
