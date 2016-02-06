@@ -1,0 +1,457 @@
+[
+  {
+    "url": "rtmp://208.75.229.59:1935/1tv/ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://streema.com/tv/1TV playpath=1tv1", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "1 TV"
+  }, 
+  {
+    "url": "rtmp://s1.iptv.ge/live-1tv/ playpath=1tv.sdp swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/GPB/ pageUrl=http://www.iptv.ge/en/tv/GPB/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "1 TV"
+  }, 
+  {
+    "url": "http://162.212.176.83:8080/2tv1.m3u8", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "2 TV"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "Silk Sport 1"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "Silk Sport 2"
+  }, 
+  {
+    "url": "http://80.77.52.6:4444/udp/230.0.6.3:12345", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "Silk Sport 3"
+  }, 
+  {
+    "url": "rtmp://s4.iptv.ge/live-rustavi2/ playpath=rustavi2 swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/Rustavi_2/ pageUrl=http://www.iptv.ge/en/tv/Rustavi_2/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rustavi 2"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/rustavi2/mp4:rustavi2 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=rustavi2", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rustavi 2"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/rustavi2hq/mp4:rustavi2hq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "Rustavi 2 hq"
+  }, 
+  {
+    "url": "rtmp://s4.iptv.ge/live-imedi/ playpath=imedi swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/Imedi/ pageUrl=http://www.iptv.ge/en/tv/Imedi/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "imedi - Tbilisi"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/imedi/mp4:imedi swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imedi", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "imedi"
+  }, 
+  {
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/imedihq/mp4:imedihq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imedihq", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "imedi hq"
+  }, 
+  {
+    "url": "90?mode=6", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "imedi"
+  }, 
+  {
+    "url": "rtmp://s1.iptv.ge/live-maestro/ playpath=maestro.sdp swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/Maestro/ pageUrl=http://www.iptv.ge/en/tv/Maestro/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "maestro"
+  }, 
+  {
+    "url": "99?mode=6", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "maestro"
+  }, 
+  {
+    "url": "rtmp://s1.iptv.ge/live-adjara/ playpath=adjara.sdp swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/Adjaratv/ pageUrl=http://www.iptv.ge/en/tv/Adjaratv/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "adjara"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/adjara/mp4:adjara swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=adjara", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "adjara"
+  }, 
+  {
+    "url": "100?mode=6", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "adjara"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/gpb/mp4:gpb swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=gpb", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "GPB"
+  }, 
+  {
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/gpbhq/mp4:gpbhq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gpbhq", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "GPB HQ"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/tv11/mp4:tv11 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv11", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV11"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/tabula/mp4:tabula swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tabula", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "tabula"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/gdstv/mp4:gdstv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gdstv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "GDS"
+  }, 
+  {
+    "url": "157?mode=6", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "GDS"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/meore/mp4:meore swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=meore", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "meore"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/maestro/mp4:maestro swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=maestro", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "maestro"
+  }, 
+  {
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/afkhmahd/mp4:afkhmahd swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=afkhmahd", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "afkhmahd"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/dardimandi/mp4:dardimandi swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=dardimandi", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "dardimandi"
+  }, 
+  {
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/bbb/mp4:bbb swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=bbb", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "bbb"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/elconavigator/mp4:elconavigator swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=elconavigator", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "elconavigator"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/ertsulovneba/mp4:ertsulovneba swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=ertsulovneba", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "ertsulovneba"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/kartuliarkhi/mp4:kartuliarkhi swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=kartuliarkhi", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "kartuliarkhi"
+  }, 
+  {
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/tv8channel/mp4:tv8channel swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv8channel", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV8"
+  }, 
+  {
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/viptv/mp4:viptv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=viptv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "VipTV"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/imervizia/mp4:imervizia swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imervizia", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "imervizia"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/artarea/mp4:artarea swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=artarea", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "artarea"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/diatv/mp4:diatv swfUrl=>http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=diatv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "diatv"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/enkibenki/mp4:enkibenki swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=enkibenki", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "enkibenki"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/marao/mp4:marao swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=marao", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "marao"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/megatv/mp4:megatv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=megatv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "megatv"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/puls/mp4:puls swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=puls", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "puls"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/tv25/mp4:tv25 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv25", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV25"
+  }, 
+  {
+    "url": "234?mode=6", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV25"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/musicbox/mp4:musicbox swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=musicbox", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "musicbox"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/qvemoqartli/mp4:qvemoqartli swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=qvemoqartli", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "qvemoqartli"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/rioni/mp4:rioni swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=rioni", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "rioni"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/trialeti/mp4:trialeti swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=trialeti", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "trialeti"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/marneulitv/mp4:marneulitv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=marneulitv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "marneulitv"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/tv4/mp4:tv4 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv4", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV4"
+  }, 
+  {
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/axalihq/mp4:axalihq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=axalihq", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "axalihq"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/caucasia/mp4:caucasia swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=caucasia", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "caucasia"
+  }, 
+  {
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/tv3hq/mp4:tv3hq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv3hq", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV3"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/tv24/mp4:tv24 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv24", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV24"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/ggtv/mp4:ggtv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=ggtv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "ggtv"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/palitra/mp4:palitra swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=palitra", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "palitra"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/obiektivi/mp4:obiektivi swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=obiektivi", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "obiektivi"
+  }, 
+  {
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/gurjaani/mp4:gurjaani swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gurjaani", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "gurjaani"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/stv/mp4:stv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=stv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "stv"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/sdasutv/mp4:sdasutv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=sdasutv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "sdasutv"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/malltv/mp4:malltv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=malltv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "malltv"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/momavalitv/mp4:momavalitv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=momavalitv", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "momavalitv"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/qartuli/mp4:qartuli swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=qartuli", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "qartuli"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_hollywood/mp4:silk_hollywood swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "silk hollywood"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_mg/mp4:silk_mg swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "silk mg"
+  }, 
+  {
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_movie/mp4:silk_movie swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "group": "גרוזינית", 
+    "image": "", 
+    "type": "video", 
+    "name": "silk movie"
+  }
+]

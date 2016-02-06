@@ -1,0 +1,709 @@
+[
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=3&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "tiempo de ayudar"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=13&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3e9b4147e3fbb6e3d7608ee271f970b012d576c8.png", 
+    "type": "video", 
+    "name": "Azteca 7"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=24&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/418f4afded226591b3769a8fc4473ba0e0c780ce.png", 
+    "type": "video", 
+    "name": "Canal 40"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=41&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5688d629cdb61ddc9a8f7efb57b9496518d66656.png", 
+    "type": "video", 
+    "name": "102"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=45&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/23ac17ec28c592073318f06f75419b2b1159ffd0.png", 
+    "type": "video", 
+    "name": "foroTV HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=52&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/a7a5268510d5f22f85dad417aaba04b7826beab6.png", 
+    "type": "video", 
+    "name": "Canal5"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=60&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "C"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=61&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "O HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=65&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/b74c7a978570e313686c1729aca17220054ba619.png", 
+    "type": "video", 
+    "name": "Azteca trece"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=72&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/418f4afded226591b3769a8fc4473ba0e0c780ce.png", 
+    "type": "video", 
+    "name": "40HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=73&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3d912ab8e2ee22c7c687e2dcbd863ba2ad827e90.png", 
+    "type": "video", 
+    "name": "Cadenatres"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=80&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/058b96eeb224abc8ae6655537dbd9b2137b1e048.png", 
+    "type": "video", 
+    "name": "STV"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=82&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/19347db735ba521c9be871acd63ed33c71e4e692.png", 
+    "type": "video", 
+    "name": "bbc mundo"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/53fa863ac88ca97767f997f656cbc0cb6dda1c2f.png", 
+    "type": "video", 
+    "name": "FOX"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/36dc7857f50a8ea438ca85052588fa6c2b7824fa.png", 
+    "type": "video", 
+    "name": "SONY"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/af7cf8c4df3e7c8236ab9605f60434f75e0d516a.png", 
+    "type": "video", 
+    "name": "WARNER BROS"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/ae220951bcb02afd1814eb9b3dcfcb5cb34ed490.png", 
+    "type": "video", 
+    "name": "FX-HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=105&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/86bf47368bd13640c5e3f3f6ff10f9d7fdc72858.png", 
+    "type": "video", 
+    "name": "A&E"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/7f72e9b6f3ebde72174b2e60175c88ab3438e160.png", 
+    "type": "video", 
+    "name": "AXN"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=116&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5e47166763a64c16a92f365281d90571748f1383.png", 
+    "type": "video", 
+    "name": "TRU TV"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=120&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/583585b3b2fec23a81b97cbf400c5ee008201e13.png", 
+    "type": "video", 
+    "name": "COMEDY CENTRAL"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "UFC NETWORK"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=129&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/57c4ec4426e3f9281b65826caaaea8bd15ab2379.png", 
+    "type": "video", 
+    "name": "BBC enter"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=134&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/931340392e416575688f854fb93e7ee917fa19bf.png", 
+    "type": "video", 
+    "name": "E!"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=138&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/0bd4e221ac1a06dd1c6440480a074d536a3d868c.png", 
+    "type": "video", 
+    "name": "UNIVERSAL"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=142&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/05d86094bab0dc8aeaf58122915f4a2ba248a353.png", 
+    "type": "video", 
+    "name": "SYFY"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=146&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/7878a4e633f3ca236b770533044249a848d37ec8.png", 
+    "type": "video", 
+    "name": "FX"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/7288ab3fcfc1361f9d266b6c1856acedbb293f55.png", 
+    "type": "video", 
+    "name": "ID"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=158&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/79e542340b7aa19242c6949e2923dad58434d331.png", 
+    "type": "video", 
+    "name": "INFinito"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=162&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/a43bc483633cc8356b31a8709fb52c78812d5b87.png", 
+    "type": "video", 
+    "name": "elGourmet"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=166&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/f6828c4eebdb4784757e28a705e385e279e03f3f.png", 
+    "type": "video", 
+    "name": "GLITZ"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=170&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/fcdc59da84899545e8327163bd691945df8b394b.png", 
+    "type": "video", 
+    "name": "FOXLIFE"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=174&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/91731ff348e1a3fa430a69dc6996c06df752c5b8.png", 
+    "type": "video", 
+    "name": "DISTRI COMEDI"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/29304f74e166289ef50d4080fa35ab18c8113f0b.png", 
+    "type": "video", 
+    "name": "TBS"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=181&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/b633f9e6cc8690f7db2fb78b3448621a9cb9e500.png", 
+    "type": "video", 
+    "name": "CASA"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=186&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/7883d4d9bd4e340f775bcdc28a6d05186c3b3660.png", 
+    "type": "video", 
+    "name": "TELENOVELAS"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=202&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "disney JR"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=206&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "nick JR"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=210&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "disney channel"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=214&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "nick hd"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=218&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "nick"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=222&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "cartoon network"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=226&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "disney XD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "boomerang"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=234&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "TiiN"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=238&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "tooncast"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=241&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/f847aa96a981c66351e30c74fa7375e1e9786c94.png", 
+    "type": "video", 
+    "name": "Discovery Theater HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=245&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/a8a895f4230fb1b5b5733b5f388bcf38446b5f58.png", 
+    "type": "video", 
+    "name": "HISTORY CHANNEL"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=249&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/acc4af470c4465977fed955fd72c8bb86974a275.png", 
+    "type": "video", 
+    "name": "natgeo wild"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=253&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/9cb281a63fda118dab792a2a8a96d1271a14c7d5.png", 
+    "type": "video", 
+    "name": "TLC HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=257&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/7883d4d9bd4e340f775bcdc28a6d05186c3b3660.png", 
+    "type": "video", 
+    "name": "Discovery Channel"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=261&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/b9d6258ae6c6d138c3050a0240907c7bdc14a781.png", 
+    "type": "video", 
+    "name": "animal planet"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=266&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3c0ff2bff2f1ed59802b72e334a977477c88a6a2.png", 
+    "type": "video", 
+    "name": "Discovery Home & Health"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=270&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/cbdcaef7299e446e6069a5f98c4dbf88c10c6104.png", 
+    "type": "video", 
+    "name": "natgeo"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=274&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/b44f334b93e30cc710f205e63c0abd3b4c91ef7b.png", 
+    "type": "video", 
+    "name": "LIFETIME"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=278&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5d0931df7263aec365f0ec91f26b8aa40bed111e.png", 
+    "type": "video", 
+    "name": "Discovery Science"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=282&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/9101c4302d53408ae8182f5cfcee5285694b7856.png", 
+    "type": "video", 
+    "name": "Discovery Civilization"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=286&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/887ca02b57b9524e9a96438b02e102d5cd8cec53.png", 
+    "type": "video", 
+    "name": "Discovery Turbo"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=290&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5b454af4ca435295732c81ad47788bc5e7e15a64.png", 
+    "type": "video", 
+    "name": "TLC"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=294&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/c5eda82a2213c73f72e722ecb9271db8c2f9478b.png", 
+    "type": "video", 
+    "name": "wobi"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/4ba212352d8591256aa755b40e3d5fb3859104c8.png", 
+    "type": "video", 
+    "name": "FOX1 HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/428e54706957ff4f8a2f3fefd30df2aeababf779.png", 
+    "type": "video", 
+    "name": "FOX ACTION HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/ced2ae59b90d02bba742b5c6252d0880aaf64665.png", 
+    "type": "video", 
+    "name": "FOX MOVIE HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "CINECANAL+"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/d96e932bb88379bd1d0b5b925b1cdbc3d96db065.png", 
+    "type": "video", 
+    "name": "TNT HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/1ff1eea34116abb93b8c47c04a0286d46463000c.png", 
+    "type": "video", 
+    "name": "GOLDEN HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/7f6d26c5177072d82491bb95ba713b311df684e8.png", 
+    "type": "video", 
+    "name": "FilmZONE HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5dc2b9ebd4554ba2e7721e92c5aaceae44846bf5.png", 
+    "type": "video", 
+    "name": "DPELICULA HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=330&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/812e7210c08f7b3bbe097526aaaad910340d2dad.png", 
+    "type": "video", 
+    "name": "AMC"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/d02697a2145edfea41a4ff7c474f7cdd76ba9ffd.png", 
+    "type": "video", 
+    "name": "SPACE HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=337&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/82b137fa3ac56c4e4b098edef7cbd9be7c6c182c.png", 
+    "type": "video", 
+    "name": "FOX CINEMA"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/60b15aa2806b9c66edc1c1933d6dc03b48b3ec52.png", 
+    "type": "video", 
+    "name": "FOX FAMILY"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/ba36c2bc1e83dffbb83aac307ef6b520116cc06e.png", 
+    "type": "video", 
+    "name": "FOX CLASSIC"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/9047451eae0fe1bbee3b4e30588b96087667ce3e.png", 
+    "type": "video", 
+    "name": "CINECANAL"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/01ea7cf1f0dc7cdeec9c47ffb08cfbe48acbb4ac.png", 
+    "type": "video", 
+    "name": "CineMax"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=358&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/94b90fa0fa9b7fe3e5311518646ed5d4bb09366b.png", 
+    "type": "video", 
+    "name": "TNT"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=362&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5f4b9556608d56b5fe3b52bf70260419f5a6c6d3.png", 
+    "type": "video", 
+    "name": "EDGE"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=366&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/88f6f206ed944d4a8ffb3d1d3a9c0c93094167c3.png", 
+    "type": "video", 
+    "name": "AMC"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=370&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3f006205d21b9c1e4d6283bc7d6f5f643d321a8f.png", 
+    "type": "video", 
+    "name": "SPACE"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/4fedd44d3b9318554c843d30dd315005f9080a9e.png", 
+    "type": "video", 
+    "name": "STUDIO UNIVERSAL"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/e125aa0283dd1d2d5a73c22a3dfa17dfc71489ed.png", 
+    "type": "video", 
+    "name": "Isat"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=382&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/19fa192ad482ce7462a42047caa18af3e6a94f45.png", 
+    "type": "video", 
+    "name": "TCM"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=417&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3047a0d61c2cb93977ae98669bb8e35f3a5b1602.png", 
+    "type": "video", 
+    "name": "Milneo"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=422&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5735a335421d80692d59c746e97ddcbfdfe63e32.png", 
+    "type": "video", 
+    "name": "TVE"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=429&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/e25cf7b9a91bb81c4a01dce1aac3bf01eb965ed9.png", 
+    "type": "video", 
+    "name": "MTV live HD"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=436&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "TELEHIT"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=437&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/5bb2b5cbf121b094c3169a4fb9bf7ba5230bf311.png", 
+    "type": "video", 
+    "name": "vh1"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=442&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/648792f0f9e79bbccdc561ce8e98aefd7d3d8ca0.png", 
+    "type": "video", 
+    "name": "MTV mexoco"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=446&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3210b55ab94605b7dbef349a9cf05e0b66b98dbc.png", 
+    "type": "video", 
+    "name": "RITMOSON"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=450&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/a89c13e8c84c13bcf82b049e5c855b7b8237e857.png", 
+    "type": "video", 
+    "name": "BANDAMAX"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=459&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/739ded8806b1ca17b12822bf3fb45f404cdf89b9.png", 
+    "type": "video", 
+    "name": "Mixplay TV"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=462&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/3a2e59ed81e60a7e8840635d98de2dc490987224.png", 
+    "type": "video", 
+    "name": "BLOOMBERG"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=465&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/97d196d410166b5e4f634b38cf6f7f80ec1bb7ba.png", 
+    "type": "video", 
+    "name": "AYM SPORTS"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=466&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "NICKToons"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=473&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "http://totalplay.com.mx/images/channels/e09dc50c093979f6d86c7d84f6b380b1bed6a4e9.png", 
+    "type": "video", 
+    "name": "HMX"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=474&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "reallity tv"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "PX TV"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "MTV HITS"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=477&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "vh1 classic"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "ESTRELLA"
+  }, 
+  {
+    "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8", 
+    "group": "ספרד פרימיום", 
+    "image": "", 
+    "type": "video", 
+    "name": "AZCORAZON"
+  }
+]

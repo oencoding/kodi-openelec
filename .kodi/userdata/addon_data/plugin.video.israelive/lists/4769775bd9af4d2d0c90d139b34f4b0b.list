@@ -1,0 +1,114 @@
+[
+  {
+    "url": "rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://cdn.zerocast.tv/player.swf pageUrl=http://zerocast.tv/embed.php?a=6&id=&width=580&height=400&autostart=true&strech=", 
+    "group": "ילדים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Cartoon Network"
+  }, 
+  {
+    "url": "rtmp://rtmp.zerocast.tv:1935/live playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://cdn.zerocast.tv/player.swf pageUrl=http://zerocast.tv/embed.php?a=14&id=&width=580&height=400&autostart=true&strech=", 
+    "group": "ילדים", 
+    "image": "", 
+    "type": "video", 
+    "name": "NICK"
+  }, 
+  {
+    "url": "http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8", 
+    "group": "ילדים", 
+    "image": "http://www.thepoliticalinsider.com/wp-content/uploads/2014/10/Tom-And-Jerry-Mouse.jpg", 
+    "type": "video", 
+    "name": "Tom&Jerry 24/7"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=29&mode=1", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/29/extra_big_logo.png", 
+    "type": "video", 
+    "name": "CBBC"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3191&mode=1", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/3191/extra_big_logo.png", 
+    "type": "video", 
+    "name": "CBeebies"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://www.rte.ie/manifests/rsw5.f4m", 
+    "group": "ילדים", 
+    "image": "http://www.rte.ie/rtejr/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg", 
+    "type": "video", 
+    "name": "RTE JR"
+  }, 
+  {
+    "url": "http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8", 
+    "group": "ילדים", 
+    "image": "", 
+    "type": "video", 
+    "name": "Baby TV"
+  }, 
+  {
+    "url": "http://202.75.23.33/live/ch27/01.m3u8", 
+    "group": "ילדים", 
+    "image": "http://www.blackhillsportal.com/dbs/wirefree/files/Image/directv/baby_first_tv.png", 
+    "type": "video", 
+    "name": "BabyFirst"
+  }, 
+  {
+    "url": "http://202.75.23.36:1400/live/ch43/01.m3u8", 
+    "group": "ילדים", 
+    "image": "http://img4.wikia.nocookie.net/__cb20130106050946/zimwiki/images/5/52/Nickelodeon_New_logo.png", 
+    "type": "video", 
+    "name": "Nickelodeon"
+  }, 
+  {
+    "url": "http://202.75.23.37/live/ch17/01.m3u8", 
+    "group": "ילדים", 
+    "image": "http://upload.wikimedia.org/wikipedia/it/6/62/JimJam.png", 
+    "type": "video", 
+    "name": "JimJam"
+  }, 
+  {
+    "url": "http://202.75.23.36/live/ch49/01.m3u8", 
+    "group": "ילדים", 
+    "image": "http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/cartoonitologo.jpg", 
+    "type": "video", 
+    "name": "CARTOONITO"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=793&mode=1", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/793/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Kartoon Klassics"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=719&mode=1", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/719/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Emba Kids"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2734&mode=1", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/2734/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Your Family Entertainment"
+  }, 
+  {
+    "url": "rtmp://mi2.gv.filmon.com:1935/live/_definst_/2734.low.stream", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/2734/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Your Family Entertainment"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=401&mode=1", 
+    "group": "ילדים", 
+    "image": "http://static.filmon.com/couch/channels/401/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Smile of a Child"
+  }
+]

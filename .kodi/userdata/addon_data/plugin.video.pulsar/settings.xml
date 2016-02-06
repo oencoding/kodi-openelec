@@ -1,0 +1,15 @@
+<settings>
+    <setting id="custom_provider_timeout" value="4" />
+    <setting id="custom_provider_timeout_enabled" value="false" />
+    <setting id="download_path" value="" />
+    <setting id="keep_files" value="false" />
+    <setting id="listen_port_max" value="7000" />
+    <setting id="listen_port_min" value="6889" />
+    <setting id="max_download_rate" value="" />
+    <setting id="max_upload_rate" value="" />
+    <setting id="socks_enabled" value="false" />
+    <setting id="socks_host" value="" />
+    <setting id="socks_login" value="" />
+    <setting id="socks_password" value="" />
+    <setting id="socks_port" value="1080" />
+</settings>

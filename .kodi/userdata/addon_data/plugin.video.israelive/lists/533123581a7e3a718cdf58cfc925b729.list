@@ -1,0 +1,576 @@
+[
+  {
+    "url": "plugin://plugin.video.israelive/?url=2756&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/2756/extra_big_logo.png", 
+    "type": "video", 
+    "name": "KIKA"
+  }, 
+  {
+    "url": "KiKa?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/2756/extra_big_logo.png", 
+    "type": "video", 
+    "name": "KIKA"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1033&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/1033/extra_big_logo.png", 
+    "type": "video", 
+    "name": "N-TV"
+  }, 
+  {
+    "url": "NTV?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/1033/extra_big_logo.png", 
+    "type": "video", 
+    "name": "N-TV"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2759&mode=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "name": "ZDF"
+  }, 
+  {
+    "url": "ZDF?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "name": "ZDF"
+  }, 
+  {
+    "url": "220;;zdftv?mode=6", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "name": "ZDF"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=360&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/360/extra_big_logo.png", 
+    "type": "video", 
+    "name": "ZDFneo"
+  }, 
+  {
+    "url": "ZDFNEO?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/360/extra_big_logo.png", 
+    "type": "video", 
+    "name": "ZDFneo"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=359&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/359/extra_big_logo.png", 
+    "type": "video", 
+    "name": "zdf.kultur"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2762&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/2762/extra_big_logo.png", 
+    "type": "video", 
+    "name": "ZDF INFOKANAL"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=418&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/418/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Eins Plus"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=421&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/421/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Eins Festival"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=415&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/415/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Tagesschau24"
+  }, 
+  {
+    "url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/415/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Tagesschau 24"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=706&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/706/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Sonnenklar TV"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=424&mode=1&ignorefilmonguide=1", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/424/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Phoenix"
+  }, 
+  {
+    "url": "phoenix?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://static.filmon.com/couch/channels/424/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Phoenix"
+  }, 
+  {
+    "url": "ARD?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "name": "ARD"
+  }, 
+  {
+    "url": "204;;daserste?mode=6", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "name": "ARD"
+  }, 
+  {
+    "url": "http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "name": "ARD"
+  }, 
+  {
+    "url": "SAT1?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/sat1.png", 
+    "type": "video", 
+    "name": "SAT1"
+  }, 
+  {
+    "url": "RTL?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/rtl.png", 
+    "type": "video", 
+    "name": "RTL"
+  }, 
+  {
+    "url": "RTL2?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/rtl2.png", 
+    "type": "video", 
+    "name": "RTL2"
+  }, 
+  {
+    "url": "PRO7?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/pro7.png", 
+    "type": "video", 
+    "name": "PRO7"
+  }, 
+  {
+    "url": "VOX?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/vox.png", 
+    "type": "video", 
+    "name": "VOX"
+  }, 
+  {
+    "url": "KABEL1?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/kabel1.png", 
+    "type": "video", 
+    "name": "KABEL1"
+  }, 
+  {
+    "url": "SIXX?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/sixx.png", 
+    "type": "video", 
+    "name": "SIXX"
+  }, 
+  {
+    "url": "DMAX?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/dmax.png", 
+    "type": "video", 
+    "name": "DMAX"
+  }, 
+  {
+    "url": "SUPERRTL?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/superrtl.png", 
+    "type": "video", 
+    "name": "SUPER RTL"
+  }, 
+  {
+    "url": "RTLNITRO?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/rtlnitro.png", 
+    "type": "video", 
+    "name": "RTL NITRO"
+  }, 
+  {
+    "url": "3SAT?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/3sat.png", 
+    "type": "video", 
+    "name": "3SAT"
+  }, 
+  {
+    "url": "Eurosport?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/eurosport.png", 
+    "type": "video", 
+    "name": "Eurosport"
+  }, 
+  {
+    "url": "Sport1?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/sport1.png", 
+    "type": "video", 
+    "name": "Sport1"
+  }, 
+  {
+    "url": "nickcc?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/nickcc.png", 
+    "type": "video", 
+    "name": "nick/comedy central"
+  }, 
+  {
+    "url": "VIVA?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/viva.png", 
+    "type": "video", 
+    "name": "VIVA"
+  }, 
+  {
+    "url": "JOIZ?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/joiz.png", 
+    "type": "video", 
+    "name": "JOIZ"
+  }, 
+  {
+    "url": "arte?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/arte.png", 
+    "type": "video", 
+    "name": "arte"
+  }, 
+  {
+    "url": "WDR?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "name": "WDR"
+  }, 
+  {
+    "url": "http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "name": "WDR"
+  }, 
+  {
+    "url": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "name": "WDR"
+  }, 
+  {
+    "url": "MDR?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/mdr.png", 
+    "type": "video", 
+    "name": "MDR"
+  }, 
+  {
+    "url": "SWR?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/swr.png", 
+    "type": "video", 
+    "name": "SWR"
+  }, 
+  {
+    "url": "BR?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/br.png", 
+    "type": "video", 
+    "name": "BR"
+  }, 
+  {
+    "url": "ORF1?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/orf1.png", 
+    "type": "video", 
+    "name": "ORF1"
+  }, 
+  {
+    "url": "ORF2?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/orf2.png", 
+    "type": "video", 
+    "name": "ORF2"
+  }, 
+  {
+    "url": "ATV?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/atv.png", 
+    "type": "video", 
+    "name": "ATV"
+  }, 
+  {
+    "url": "SF1?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/sf1.png", 
+    "type": "video", 
+    "name": "SF1"
+  }, 
+  {
+    "url": "SF2?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/sf2.png", 
+    "type": "video", 
+    "name": "SF2"
+  }, 
+  {
+    "url": "3PLUS?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/3plus.png", 
+    "type": "video", 
+    "name": "3PLUS"
+  }, 
+  {
+    "url": "rtmp://x2908erfeic14000.f.l.f.lb.core-cdn.net/14000erf pageUrl=http://livetvstreaming.ucoz.com live=1  playpath=live/2908erfeins/live_de_450", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "E RF"
+  }, 
+  {
+    "url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TVA OSTBAYERN"
+  }, 
+  {
+    "url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://metadata.br-online.de/imda/logos/B5_aktuell_imda_tv_16_9.png", 
+    "type": "video", 
+    "name": "TV AKTUELL"
+  }, 
+  {
+    "url": "rtmp://rtmp.infomaniak.ch/livecast playpath=telezuri swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.25.swf?sDescription=&bLd=0&sTitle=&sVersion=4%2E2%2E25 live=1 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=telezuri&name=telezueri&player=1388", 
+    "group": "גרמניה", 
+    "image": "http://4vector.com/i/free-vector-tele-zueri_052005_tele-zueri.png", 
+    "type": "video", 
+    "name": "Telezueri"
+  }, 
+  {
+    "url": "rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Suedtirol TV"
+  }, 
+  {
+    "url": "http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://en.wikipedia.org/wiki/Okto#mediaviewer/File:MediaCorp_okto.jpg", 
+    "type": "video", 
+    "name": "OKTO TV"
+  }, 
+  {
+    "url": "http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://koeln-nachrichten.de/wp-content/uploads/2014/12/DasErste_gr.jpg", 
+    "type": "video", 
+    "name": "Das Erste"
+  }, 
+  {
+    "url": "http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png", 
+    "type": "video", 
+    "name": "NDR"
+  }, 
+  {
+    "url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "TV Aktuell"
+  }, 
+  {
+    "url": "http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/n24.png", 
+    "type": "video", 
+    "name": "N24"
+  }, 
+  {
+    "url": "N24?mode=4", 
+    "group": "גרמניה", 
+    "image": "http://images.live-stream.tv/picons/n24.png", 
+    "type": "video", 
+    "name": "N24"
+  }, 
+  {
+    "url": "rtsp://livestreams-rtsp.br.de/live/bralpha_germany_3", 
+    "group": "גרמניה", 
+    "image": "http://www.uni-bonn-radiologie.de/upload/bilder/Bilder-fMRI/Logos_Aktuelles/logo_BR-alpha..jpg", 
+    "type": "video", 
+    "name": "bralpha"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/rbw_high/bratumarian.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "RBW"
+  }, 
+  {
+    "url": "rtmp://62.113.210.250/medienasa-live/ran1_high", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "RAN 1 Dessau"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/punktum_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "PUNKTum"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "MDF1"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "RFH"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/ok-wernigerode_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "wernigerode"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "stendal"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "salzwedel"
+  }, 
+  {
+    "url": "http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "magdeburg"
+  }, 
+  {
+    "url": "rtmp://62.113.210.250/medienasa-live/elbe_high", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Elbekanal Schรถnebeck"
+  }, 
+  {
+    "url": "rtmp://62.113.210.250/medienasa-live/tvhalle_high", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Halle TV"
+  }, 
+  {
+    "url": "rtmp://83.169.58.36/live/Stream3", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Family TV"
+  }, 
+  {
+    "url": "rtmp://live.bwfamily.tv:1935/rtplive/vlc.sdp", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "BW Family TV"
+  }, 
+  {
+    "url": "rtmp://fms.daf.tmt.de:1935/live/dafstream100", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "DAF TV"
+  }, 
+  {
+    "url": "rtmp://62.113.210.27/filstalwelle-live/livestream", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Filstalwelle"
+  }, 
+  {
+    "url": "rtmp://85.214.107.68/juwelo_hd/live_DE1", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Juwelo TV"
+  }, 
+  {
+    "url": "rtsp://streamer1.streamhost.org:1935/salive/lctvde", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Light Channel TV Deutschland"
+  }, 
+  {
+    "url": "rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "Dresden Fernsehen"
+  }, 
+  {
+    "url": "mms://wt-wm1.wtnet.de/noa4hh-stream-mid?.wma", 
+    "group": "גרמניה", 
+    "image": "", 
+    "type": "video", 
+    "name": "NOA4 Hamburg"
+  }, 
+  {
+    "url": "http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-b.m3u8", 
+    "group": "גרמניה", 
+    "image": "http://www.presseportal.de/bild/79385-logo-servustv.jpg", 
+    "type": "video", 
+    "name": "ServusTV"
+  }
+]

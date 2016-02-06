@@ -1,0 +1,667 @@
+[
+  {
+    "url": "http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png", 
+    "type": "video", 
+    "name": "i24News English"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png", 
+    "type": "video", 
+    "name": "i24News English"
+  }, 
+  {
+    "url": "http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png", 
+    "type": "video", 
+    "name": "i24News France"
+  }, 
+  {
+    "url": "http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png", 
+    "type": "video", 
+    "name": "i24News Arabic"
+  }, 
+  {
+    "url": "rtmpe://46.246.124.89:1935/l/ playpath=foxnewsss swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ token=Fo5_n0w?U.rA6l3-70w47", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Fox_News.svg/1098px-Fox_News.svg.png", 
+    "type": "video", 
+    "name": "Fox News"
+  }, 
+  {
+    "url": "http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on", 
+    "group": "חדשות", 
+    "image": "http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg", 
+    "type": "video", 
+    "name": "ABC News"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://cbsnewshd-lh.akamaihd.net/z/CBSNDC_4@199302/manifest.f4m?g=LWTIMKQFWTLM&hdcore=3.3.1", 
+    "group": "חדשות", 
+    "image": "http://whatsonline.tv/wp-content/uploads/2014/11/CBSN-Logo-466x310.jpg", 
+    "type": "video", 
+    "name": "CBS News"
+  }, 
+  {
+    "url": "rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15", 
+    "group": "חדשות", 
+    "image": "http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg", 
+    "type": "video", 
+    "name": "MSNBC"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2996&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2996/extra_big_logo.png", 
+    "type": "video", 
+    "name": "VoA English"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3223&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/3223/extra_big_logo.png", 
+    "type": "video", 
+    "name": "NewsMAX"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://www.rte.ie/manifests/newsnow.f4m", 
+    "group": "חדשות", 
+    "image": "http://static.rasset.ie/static/news/img/img_rte_contact.jpg", 
+    "type": "video", 
+    "name": "RTE News"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1666&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1666/extra_big_logo.png", 
+    "type": "video", 
+    "name": "BBC Parliament"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=27&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/27/extra_big_logo.png", 
+    "type": "video", 
+    "name": "BBC News"
+  }, 
+  {
+    "url": "27?mode=6", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/27/extra_big_logo.png", 
+    "type": "video", 
+    "name": "BBC News"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/bbc_ar/ls_satlink/b_828.f4m", 
+    "group": "חדשות", 
+    "image": "http://news.bbcimg.co.uk/media/images/73586000/jpg/_73586104_bbc_arabic_2_language_red.jpg", 
+    "type": "video", 
+    "name": "BBC News arabic"
+  }, 
+  {
+    "url": "216?mode=6", 
+    "group": "חדשות", 
+    "image": "http://news.bbcimg.co.uk/media/images/45482000/jpg/_45482922_worldnews512.jpg", 
+    "type": "video", 
+    "name": "BBC World News"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://news.bbcimg.co.uk/media/images/45482000/jpg/_45482922_worldnews512.jpg", 
+    "type": "video", 
+    "name": "BBC World News"
+  }, 
+  {
+    "url": "http://202.75.23.33/live/ch28/01.m3u8", 
+    "group": "חדשות", 
+    "image": "http://news.bbcimg.co.uk/media/images/45482000/jpg/_45482922_worldnews512.jpg", 
+    "type": "video", 
+    "name": "BBC World News"
+  }, 
+  {
+    "url": "http://hlsstr03.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/variant.m3u8", 
+    "group": "חדשות", 
+    "image": "http://news.bbcimg.co.uk/media/images/45482000/jpg/_45482922_worldnews512.jpg", 
+    "type": "video", 
+    "name": "BBC World News"
+  }, 
+  {
+    "url": "rtmp://a.cdn.newschat.tv/edge playpath=skyuk_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/sky/ swfVfy=1 live=1  timeout=15", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_News.svg/250px-Sky_News.svg.png", 
+    "type": "video", 
+    "name": "sky news"
+  }, 
+  {
+    "url": "mms://194.88.72.13/skynews_wmlz_live300k", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_News.svg/250px-Sky_News.svg.png", 
+    "type": "video", 
+    "name": "sky news"
+  }, 
+  {
+    "url": "http://www.youtube.com/watch?v=VYlQJbsVs48", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_News.svg/250px-Sky_News.svg.png", 
+    "type": "video", 
+    "name": "sky news"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/sky_news_arabia/ls_satlink/b_828.f4m", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png", 
+    "type": "video", 
+    "name": "sky news arabia"
+  }, 
+  {
+    "url": "http://live.reuters.miisolutions.net/reuters_rlo01_247/smil:reuters_rlo01_247.smil/22447/playlist_b1096000.m3u8", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 
+    "type": "video", 
+    "name": "Reuters"
+  }, 
+  {
+    "url": "162;;cnnint?mode=6", 
+    "group": "חדשות", 
+    "image": "http://www.userlogos.org/files/logos/tl/cnn.png", 
+    "type": "video", 
+    "name": "CNN"
+  }, 
+  {
+    "url": "rtmp://c.cdn.livenewschat.eu/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15", 
+    "group": "חדשות", 
+    "image": "http://www.userlogos.org/files/logos/tl/cnn.png", 
+    "type": "video", 
+    "name": "CNN"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.userlogos.org/files/logos/tl/cnn.png", 
+    "type": "video", 
+    "name": "CNN"
+  }, 
+  {
+    "url": "http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.userlogos.org/files/logos/tl/cnn.png", 
+    "type": "video", 
+    "name": "CNN"
+  }, 
+  {
+    "url": "rtmp://c.cdn.livenewschat.eu/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15", 
+    "group": "חדשות", 
+    "image": "http://www.userlogos.org/files/logos/tl/cnn.png", 
+    "type": "video", 
+    "name": "CNN US"
+  }, 
+  {
+    "url": "rtmp://c.cdn.livenewschat.eu/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15", 
+    "group": "חדשות", 
+    "image": "http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tdc-hln-latam-logo.png", 
+    "type": "video", 
+    "name": "HLN"
+  }, 
+  {
+    "url": "rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/", 
+    "group": "חדשות", 
+    "image": "http://dudewhereismytv.files.wordpress.com/2011/03/cbclogo2.jpg", 
+    "type": "video", 
+    "name": "CBC news"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1672&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews English"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/euronews_en/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews English"
+  }, 
+  {
+    "url": "rtmp://149.11.34.78/live playpath=euronewsen.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?332 pageUrl=http://lasteles.com/es/directo/EURONEWS/video/Euronews-en-directo.-Tv-online-en-Ingles/201", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews English"
+  }, 
+  {
+    "url": "rtmp://149.11.34.78/live playpath=euronewsfr.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?332 pageUrl=http://lasteles.com/es/directo/EURONEWS/video/Euronews-en-directo.-Tv-online-en-Ingles/201", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews French"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2900&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2900/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews French"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2903&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2903/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews German"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2912&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2912/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Italian"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2906&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2906/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Spanish"
+  }, 
+  {
+    "url": "rtmp://videos3.lasteles.com/live playpath=euronewses.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?182 pageUrl=http://lasteles.com/es/directo/EURONEWS/video/Euronews/10235", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2906/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Spanish"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2909&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2909/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Portuguese"
+  }, 
+  {
+    "url": "http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "EuroNews Russian"
+  }, 
+  {
+    "url": "http://hlsstr03.svc.iptv.rt.ru/hls/CH_EURONEWS/variant.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Russian"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/euronews_ar/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Arabic"
+  }, 
+  {
+    "url": "rtmp://149.11.34.78/live playpath=euronewsar.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?83 pageUrl=http://lasteles.com/es/directo/EURONEWS/video/Euronews-en-directo.-Tv-online-en-%C3%81rabe/14851", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1672/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Euronews Arabic"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=298&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "93?mode=6", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "http://vipwowza.yacast.net/f24_hlslive_en/_definst_/mp4:fr24_en_748/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_FRANCE24/variant.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "http://46.249.213.87/iPhone/broadcast/france24-tablet.3gp/france24-tablet.3gp-mr648k.m3u8?trackingid=3791770000&os=desktop", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "rtmp://149.11.34.78/live playpath=france24.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?261 pageUrl=http://lasteles.com/es/directo/FRANCE-24-HEURES/video/France-24%28eng%29/2262", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 English"
+  }, 
+  {
+    "url": "http://vipwowza.yacast.net/f24_hlslive_fr/_definst_/mp4:fr24_fr_748/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 France"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2792&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2792/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 France"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=2789&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2789/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 Arabic"
+  }, 
+  {
+    "url": "http://vipwowza.yacast.net/f24_hlslive_ar/_definst_/mp4:fr24_ar_748/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/298/extra_big_logo.png", 
+    "type": "video", 
+    "name": "France24 Arabic"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=81&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/81/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloomberg"
+  }, 
+  {
+    "url": "15;;bloomberg?mode=6", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/81/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloomberg"
+  }, 
+  {
+    "url": "http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/81/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloomberg"
+  }, 
+  {
+    "url": "http://cdn3.videos.bloomberg.com/btv/us/master.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/81/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloomberg"
+  }, 
+  {
+    "url": "http://btvuk-i.akamaihd.net/hls/live/203321-b/btvuk_ios/P1/M24K.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/81/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloomberg"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/bloomberg/ls_satlink/b_828.f4m", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/81/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Bloomberg"
+  }, 
+  {
+    "url": "http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on", 
+    "group": "חדשות", 
+    "image": "http://www.lyngsat-logo.com/hires/cc/cnbc.png", 
+    "type": "video", 
+    "name": "CNBC"
+  }, 
+  {
+    "url": "http://odna.octoshape.net/f3f5m2v4/cds/ch4_480p/chunklist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rt_america.png", 
+    "type": "video", 
+    "name": "Russia Today America"
+  }, 
+  {
+    "url": "http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rt_america.png", 
+    "type": "video", 
+    "name": "Russia Today America HD"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=93&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/93/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Russia Today"
+  }, 
+  {
+    "url": "24?mode=6", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/93/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Russia Today"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/rt_en/ls_satlink/b_828.f4m", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/93/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Russia Today"
+  }, 
+  {
+    "url": "http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/93/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Russia Today"
+  }, 
+  {
+    "url": "http://hlsstr03.svc.iptv.rt.ru/hls/CH_RT/variant.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/93/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Russia Today"
+  }, 
+  {
+    "url": "http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rt_america.png", 
+    "type": "video", 
+    "name": "Russia Today"
+  }, 
+  {
+    "url": "http://odna.octoshape.net/f3f5m2v4/cds/smil:ch2_auto.smil/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rt_america.png", 
+    "type": "video", 
+    "name": "Russia Today Spanish"
+  }, 
+  {
+    "url": "http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rt_america.png", 
+    "type": "video", 
+    "name": "Russia Today Arabic"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=1675&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1675/extra_big_logo.png", 
+    "type": "video", 
+    "name": "CCTV News"
+  }, 
+  {
+    "url": "http://77.36.61.45:8010/CCTVNews.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1675/extra_big_logo.png", 
+    "type": "video", 
+    "name": "CCTV News"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cctv_news/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1675/extra_big_logo.png", 
+    "type": "video", 
+    "name": "CCTV News"
+  }, 
+  {
+    "url": "http://new.livestream.com/cctv/live/?mode=3", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/1675/extra_big_logo.png", 
+    "type": "video", 
+    "name": "CCTV America"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=932&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/932/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Arirang TV"
+  }, 
+  {
+    "url": "http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/932/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Arirang TV"
+  }, 
+  {
+    "url": "http://nhkworld-hds-live1.hds1.fmslive.stream.ne.jp/hls-live/nhkworld-hds-live1/_definst_/livestream/nhkworld-live-512.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static-cdn1.ustream.tv/i/channel/picture/7/4/9/7/7497266/7497266_nhk_world_logo2_1299927691,640x360,r:1.jpg", 
+    "type": "video", 
+    "name": "NHK World HD"
+  }, 
+  {
+    "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_NHK/variant.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static-cdn1.ustream.tv/i/channel/picture/7/4/9/7/7497266/7497266_nhk_world_logo2_1299927691,640x360,r:1.jpg", 
+    "type": "video", 
+    "name": "NHK World HD"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/cnc_world_english/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/0/0a/CNC_World_logo.png/220px-CNC_World_logo.png", 
+    "type": "video", 
+    "name": "CNC"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/manifest.f4m?hdcore=2.10.3&g=DQPBNFYYMGRB", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_(shape_only).svg/2000px-Channel_NewsAsia_logo_(shape_only).svg.png", 
+    "type": "video", 
+    "name": "Channel NewsAsia"
+  }, 
+  {
+    "url": "http://wpc.c1a9.edgecastcdn.net:80/hls-live/20C1A9/enca/ls_satlink/b_828.m3u8", 
+    "group": "חדשות", 
+    "image": "http://1.bp.blogspot.com/-5A1YAfH6ng8/UDEh467XtCI/AAAAAAAAX8k/IJeVNiy98sw/s1600/eNCA+channel+logo+long+August+2012.jpg", 
+    "type": "video", 
+    "name": "ENCA"
+  }, 
+  {
+    "url": "http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2641/extra_big_logo.png", 
+    "type": "video", 
+    "name": "DW English"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/livestation/ls_lmle/dw_528.f4m", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2641/extra_big_logo.png", 
+    "type": "video", 
+    "name": "DW English"
+  }, 
+  {
+    "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/2641/extra_big_logo.png", 
+    "type": "video", 
+    "name": "DW German"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=4&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/4/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Al Jazeera"
+  }, 
+  {
+    "url": "rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/4/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Al Jazeera"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/aljazeera_america/ls_satlink/b_828.f4m", 
+    "group": "חדשות", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png", 
+    "type": "video", 
+    "name": "Al Jazeera America"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=3035&mode=1&ignorefilmonguide=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/3035/extra_big_logo.png", 
+    "type": "video", 
+    "name": "Al Jazeera Arabic"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=905&mode=1", 
+    "group": "חדשות", 
+    "image": "http://previous.presstv.ir/photo/20121018/rabbani20121018084422000.jpg", 
+    "type": "video", 
+    "name": "Press TV"
+  }, 
+  {
+    "url": "plugin://plugin.video.f4mTester/?url=http://wpc.c1a9.edgecastcdn.net/hds-live/20C1A9/presstv/ls_fiber/b_828.f4m", 
+    "group": "חדשות", 
+    "image": "http://previous.presstv.ir/photo/20121018/rabbani20121018084422000.jpg", 
+    "type": "video", 
+    "name": "Press TV"
+  }, 
+  {
+    "url": "plugin://plugin.video.israelive/?url=239&mode=1", 
+    "group": "חדשות", 
+    "image": "http://static.filmon.com/couch/channels/239/extra_big_logo.png", 
+    "type": "video", 
+    "name": "UNRELIABLE SOURCES"
+  }, 
+  {
+    "url": "http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8", 
+    "group": "חדשות", 
+    "image": "http://www.topnews.in/files/ndtv_0.jpg", 
+    "type": "video", 
+    "name": "NDTV 24x7"
+  }
+]

@@ -1,0 +1,5 @@
+<settings>
+    <setting id="enable_subtitles" value="true" />
+    <setting id="subtitle_language" value="he,en" />
+    <setting id="video_quality" value="1500kbps" />
+</settings>

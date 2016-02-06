@@ -1,0 +1,18 @@
+<!-- zerocache -->
+<advancedsettings>
+    <network>
+        <cachemembuffersize>104857600</cachemembuffersize>
+        <buffermode> 1 </buffermode>
+		<readbufferfactor> 1 </readbufferfactor>
+    </network>
+    <gui>    
+        <algorithmdirtyregions>3</algorithmdirtyregions>
+        <nofliptimeout>0</nofliptimeout>
+    </gui>
+    <videoscanner>
+        <ignoreerrors>true</ignoreerrors>
+    </videoscanner>
+	<imageres>720</imageres>
+	<fanartres>1080</fanartres>
+	<packagefoldersize>150</packagefoldersize>
+</advancedsettings>
