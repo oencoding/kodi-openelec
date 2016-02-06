@@ -1,4 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: __cfduid=d079bd3642115b18d4df8f6b6d823e93d1451838949; path="/"; domain=".sdarot.pm"; path_spec; domain_dot; expires="2017-01-02 16:35:49Z"; HttpOnly=None; version=0
-Set-Cookie3: __cfduid=df08c968fad65ebf841d4c3e9f65283ad1440501225; path="/"; domain=".sdarot.wf"; path_spec; domain_dot; expires="2016-08-24 11:13:45Z"; HttpOnly=None; version=0
-Set-Cookie3: visid_incap_630195="RrKvze/6Rjm2ueQOwoXb2NbyKFYAAAAAQUIPAAAAAACRQIerYypHUmG89QCj1FW/"; path="/"; domain=".sdarot.wf"; path_spec; domain_dot; expires="2017-10-20 22:08:14Z"; version=0

@@ -1,7 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: __cfduid=d208655ed7d70d554af79da4e7509df9e1452353854; path="/"; domain=".merdb.club"; path_spec; domain_dot; expires="2017-01-08 15:37:34Z"; HttpOnly=None; version=0
-Set-Cookie3: __cfduid=da77f7d9179cfc8662f504ad8483d70b91449757949; path="/"; domain=".merdb.link"; path_spec; domain_dot; expires="2016-12-09 14:32:29Z"; HttpOnly=None; version=0
-Set-Cookie3: __cfduid=dcc3cfd993e10a71b9388c85d1a00b19c1449757949; path="/"; domain=".merdb.mx"; path_spec; domain_dot; expires="2016-12-09 14:32:29Z"; HttpOnly=None; version=0
-Set-Cookie3: PHPSESSID=2e1021163bb39883be0dded9c191822f; path="/"; domain="www.merdb.club"; path_spec; discard; version=0
-Set-Cookie3: PHPSESSID=5248490b7852083b04e0a427015eef98; path="/"; domain="www.merdb.link"; path_spec; discard; version=0
-Set-Cookie3: PHPSESSID=2e1021163bb39883be0dded9c191822f; path="/"; domain="www.merdb.mx"; path_spec; discard; version=0

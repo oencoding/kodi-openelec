@@ -1,8 +1,0 @@
-<settings>
-    <setting id="DEBUG" value="true" />
-    <setting id="cache" value="24" />
-    <setting id="domain" value="http://www.sdarot.wf" />
-    <setting id="use_proxy" value="true" />
-    <setting id="user_password" value="zubur1" />
-    <setting id="username" value="assli100" />
-</settings>

@@ -1,5 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: __cfduid=d0392ccb99d50cc488f805f0edd18bb101449757949; path="/"; domain=".uflix.ws"; path_spec; domain_dot; expires="2016-12-09 14:32:29Z"; HttpOnly=None; version=0
-Set-Cookie3: __cfduid=de2a83b5d83ce6f39edef8682e6f999b31449757949; path="/"; domain=".vizz.is"; path_spec; domain_dot; expires="2016-12-09 14:32:29Z"; HttpOnly=None; version=0
-Set-Cookie3: PHPSESSID=77e4c4b2009079709bd0d1c382bae964; path="/"; domain="uflix.ws"; path_spec; discard; version=0
-Set-Cookie3: PHPSESSID=77e4c4b2009079709bd0d1c382bae964; path="/"; domain="vizz.is"; path_spec; discard; version=0

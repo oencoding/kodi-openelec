@@ -1,4 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: slcoo_user_id=461018; path="/"; domain=".ktuvit.com"; path_spec; domain_dot; expires="2015-06-19 14:19:15Z"; version=0
-Set-Cookie3: slcoo_user_name=ehoood; path="/"; domain=".ktuvit.com"; path_spec; domain_dot; expires="2015-06-19 14:19:15Z"; version=0
-Set-Cookie3: slcoo_user_pass=36F8B93gEFB4FF9vF9EEA6ue7F3E6Dau9B688At375; path="/"; domain=".ktuvit.com"; path_spec; domain_dot; expires="2015-06-19 14:19:15Z"; version=0
