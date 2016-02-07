@@ -19,7 +19,7 @@ arc_name = current_time + ".tar"
 arc_path = os.path.join(OUTPUT_DIR, arc_name)
 tar = tarfile.open(arc_path,"w")
 
-print "Creating tar..."
+print "Creating tar..." # add percentage progress Creating tar...50%
 for folder in FOLDERS:
     my_path = os.path.join(STORAGE,folder)
     tar.add(folder,my_path,True)
